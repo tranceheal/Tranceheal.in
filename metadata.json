@@ -1,0 +1,6 @@
+{
+  "name": "TranceHeal Hypnotherapy & Mindful Healing",
+  "description": "Trance healing, certified hypnotherapy, Past Life Regression, and Reiki chakra balancing services by TranceHeal (tranceheal.in) for inner peace, deep sleep, and subconscious mind empowerment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
